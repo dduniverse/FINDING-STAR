@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f6bb0720ef330cb4d96859ca19a5cd75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioJump: {fileID: 8300000, guid: 2801ed3da55baf64aa9e9bf8b5de436d, type: 3}
+  - audioAttack: {fileID: 8300000, guid: 152711d756c7c7f4d91d57c5d979cd58, type: 3}
+  - audioDamaged: {fileID: 8300000, guid: 5e0c4f716cea8964bb96fb8e61710d47, type: 3}
+  - audioItem: {fileID: 8300000, guid: 79a1ea97323b03c4990aa3d04b048acc, type: 3}
+  - audioDie: {fileID: 8300000, guid: 23514cb98ef5ed048afbb3a5d610d8a0, type: 3}
+  - audioFinish: {fileID: 8300000, guid: 6dd41a394f9807746b81bcb74458666d, type: 3}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
